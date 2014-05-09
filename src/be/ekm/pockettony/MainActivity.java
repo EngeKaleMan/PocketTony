@@ -25,6 +25,8 @@ public class MainActivity extends ListActivity {
 
 	/** Just a SVN Test
 	/** Just a SVN Test2
+	 * and now a GitHub test
+	 */
     /** Items entered by the user is stored in this ArrayList variable */
     ArrayList<String> list = new ArrayList<String>();
     
