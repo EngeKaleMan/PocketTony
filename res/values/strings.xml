@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hui!</string>
+    <string name="app_name">Pocket Tony</string>
+	<string name="hintTxtItem">Wèm?</string>
+	<string name="lblBtnAdd">En dèn is et mi\'jnen toor</string>
+	<string name="txtEmpty">Neemes?!?</string>
+	<string name="lblBtnDel">Loat mèr</string>	
+	<string name="lblBtnInfo">\\m/</string>	
+</resources>
